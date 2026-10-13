@@ -1,5 +1,13 @@
 # LibertyWing — Airline Delay Prediction System
 
+<p align="center">
+  <img
+    src="docs/images/LibertyWing.png"
+    alt="LibertyWing — Airline Delay Prediction System"
+    width="100%"
+  />
+</p>
+
 A machine learning-powered web application for predicting significant airline departure delays using a Gradient Boosting model, a Flask REST API, and a React frontend.
 
 ## Overview
