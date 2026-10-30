@@ -1,5 +1,4 @@
 # LibertyWing — Airline Delay Prediction System
-
 <p align="center">
   <img
     src="docs/images/LibertyWing.png"
